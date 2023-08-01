@@ -1,42 +1,45 @@
-<<<<<<< HEAD
 ::-webkit-scrollbar {
 
     background-color: rgb(226, 220, 220);
-  
+
 }
 
 
 
 ::-webkit-scrollbar-thumb {
     background-color: rgb(133, 128, 128);
-  
+
 }
 
 ::-webkit-scrollbar-button {
-    background-color: rgb(188, 188, 197); /* set the color of the top-left scrollbar button */
-  }
+    background-color: rgb(188, 188, 197);
+    /* set the color of the top-left scrollbar button */
+}
 
-  ::-webkit-scrollbar-button:end .fa {
-   color: blue; /* set the color of the top-left scrollbar button */
-=======
+::-webkit-scrollbar-button:end .fa {
+    color: blue;
+    /* set the color of the top-left scrollbar button */
+}
+
 ::-webkit-scrollbar {
 
     background-color: rgb(226, 220, 220);
-  
+
 }
 
 
 
 ::-webkit-scrollbar-thumb {
     background-color: rgb(133, 128, 128);
-  
+
 }
 
 ::-webkit-scrollbar-button {
-    background-color: rgb(188, 188, 197); /* set the color of the top-left scrollbar button */
-  }
+    background-color: rgb(188, 188, 197);
+    /* set the color of the top-left scrollbar button */
+}
 
-  ::-webkit-scrollbar-button:end .fa {
-   color: blue; /* set the color of the top-left scrollbar button */
->>>>>>> c8a0d53b6df0c277cb44bcc75399a9e028851d70
-  }
+::-webkit-scrollbar-button:end .fa {
+    color: blue;
+    /* set the color of the top-left scrollbar button */
+}
